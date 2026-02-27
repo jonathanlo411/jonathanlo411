@@ -9,6 +9,6 @@ I'm currently a consultant (non-freelance). This GitHub is just for fun. I do th
 - **Software Engineering (Embedded)** - Micro controllers
 
 #### Stats
-![Top Langs](./profile/top-langs.svg.svg)
+![Top Langs](./profile/top-langs.svg)
 
 <sup>**Jupyter Notebooks and HTML hidden for clarity*</sup>
