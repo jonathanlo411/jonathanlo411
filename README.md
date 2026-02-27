@@ -9,6 +9,6 @@ I'm currently a consultant (non-freelance). This GitHub is just for fun. I do th
 - **Software Engineering (Embedded)** - Micro controllers
 
 #### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlo411&layout=compact&hide=Jupyter%20Notebook,HTML&langs_count=8&theme=github_dark)
+![Top Langs](./profile/stats.svg)
 
 <sup>**Jupyter Notebooks and HTML hidden for clarity*</sup>
